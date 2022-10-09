@@ -1,0 +1,22 @@
+1. Cable-2440006715-Daniel Alexander
+
+Switch dan PC, tipe kabel nya Straight Through Cable (patch cable)
+urutan warna dari kiri ke kanan:
+- Ujung 1
+	- Putih-Orange
+	- Orange
+	- Putih-Hijau
+	- Biru
+	- Biru-Putih
+	- Hijau
+	- Putih-Cokelat
+	- Cokelat
+- Ujung 2
+	- Putih-Orange
+	- Orange
+	- Putih-Hijau
+	- Biru
+	- Biru-Putih
+	- Hijau
+	- Putih-Cokelat
+	- Cokelat
